@@ -11,3 +11,5 @@ import logging
 import logging.handlers
 import logging.config
 import logging.handlers 
+
+logger = logging.getLogger(__name__)
