@@ -30,3 +30,5 @@ def main():
         add()
     elif args.command == "commit":
         commit()
+
+        BAKAAAAA
