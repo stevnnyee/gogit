@@ -31,4 +31,4 @@ def main():
     elif args.command == "commit":
         commit()
 
-        BAKAAAAA MAKA SHAKALAKA PAKABAKAfsadfasdfasdf
+        BAKAAAAA MAKA SHAKALAKA PAKABAKAfsadfasdfasdfdsfgsdfgsdfgsdfg
